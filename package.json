@@ -2,7 +2,7 @@
   "name": "devsite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://justinpancasetome.github.io/devsite/",
+  "homepage": "https://justinpancasetome.github.io/devsite",
   "type": "module",
   "scripts": {
     "dev": "vite",
